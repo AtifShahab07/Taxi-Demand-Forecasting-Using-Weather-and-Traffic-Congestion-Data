@@ -1,3 +1,3 @@
-# Taxi-Demand-Forecasting-Using-Weather-and-Traffic-Congestion-Data
+# Taxi Demand Prediction Using Weather and Traffic Congestion Data
 
 The introduction of online ride hailing companies have resulted in a significant growth in taxi usage around the world. However, one of the major challenges faced by these companies is optimal allocation of taxis based on demand. In this study, we present a taxi demand prediction model using traffic congestion and weather information for Chicago city. Taxi demand is calculated based on number of pickup requests per sub-section of the city for a given time interval. The models include Linear Regression, Random Forest, XGBoost & LSTM, and a comparison study is performed between different combination of input features including taxi, traffic and weather information. We were able to show that taxi demand forecasting can be improved by incorporating external factors such as weather and traffic congestion.
